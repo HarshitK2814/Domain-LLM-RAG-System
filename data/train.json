@@ -1,0 +1,10 @@
+[
+  {
+    "instruction": "Explain supervised learning.",
+    "response": "Supervised learning is a machine learning approach where models are trained on labeled data."
+  },
+  {
+    "instruction": "What is overfitting?",
+    "response": "Overfitting occurs when a model performs well on training data but poorly on unseen data."
+  }
+]
