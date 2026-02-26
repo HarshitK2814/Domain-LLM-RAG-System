@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+accelerate
+faiss-cpu
+sentence-transformers
+numpy
+tqdm
